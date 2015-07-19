@@ -1,0 +1,17 @@
+<ion-view view-title="{{ 'mma.notes.notes' | translate }}">
+    <mm-split-view>
+        <ion-content>
+            <ion-list>
+                <a class="item" mm-split-view-link="site.notes-list({courseid: courseid, type: 'site'})">
+                    {{ 'mma.notes.sitenotes' | translate }}
+                </a>
+                <a class="item" mm-split-view-link="site.notes-list({courseid: courseid, type: 'course'})">
+                    {{ 'mma.notes.coursenotes' | translate }}
+                </a>
+                <a class="item" mm-split-view-link="site.notes-list({courseid: courseid, type: 'personal'})">
+                    {{ 'mma.notes.personalnotes' | translate }}
+                </a>
+            </ion-list>
+        </ion-content>
+    </mm-split-view>
+</ion-view>

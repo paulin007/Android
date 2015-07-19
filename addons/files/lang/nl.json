@@ -1,0 +1,16 @@
+{
+    "downloading": "Downloaden ...",
+    "emptyfilelist": "Er zijn geen bestanden om te tonen",
+    "errorcapturingaudio": "Fout bij het opnemen van audio",
+    "errorcapturingvideo": "Fout bij opnemen video",
+    "errorreadingfile": "Fout bij het lezen van bestand \"{$a}\"",
+    "file": "Bestand",
+    "fileuploaded": "Bestand geüploaded",
+    "myfiles": "Mijn bestanden",
+    "sitefiles": "Sitebestanden",
+    "success": "Succes",
+    "uploadafile": "Upload een bestand",
+    "uploadfiles": "Kan bestanden uploaden",
+    "uploading": "Uploaden...",
+    "video": "Video"
+}
