@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "events", "contents", "participants", "addcontact", "sendmessage", "forum", "label", "url", "page", "resource", "mootes14"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "http://applebyitalia.it/elearning", "username": ""},
+"presets" : {"url": "http://applebyitalia.it/elearning/", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
