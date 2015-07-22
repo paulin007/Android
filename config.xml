@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodlemoot.mootes14"
+        id        = "it.applebyitalia.APPleby"
         versionCode = "1"
         version   = "1.0">
-    <name>mootes14</name>
+    <name>APPleby</name>
 
     <description>
-        MoodleMoot Spain 2014 official app
+        Applicazione officiale di applebyitalia
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://tchonin.com" email="tchoninpaulin@gmail.com">
+        Sviluppatore mobile
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -88,7 +88,7 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
-        <param name="URL_SCHEME" value="mootes14" />
+        <param name="URL_SCHEME" value="APPleby" />
     </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
 
