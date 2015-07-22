@@ -8,12 +8,12 @@ h1 {
  color: #2F3B45;
 }
 h2 {
- color: #2F3B45;
+ color: #ffffff;
  background-color: #7a8a94;
 }
 .header-main {
- color: blue;
- background: red;
+ color: #ffffff;
+ background: #2F3B45
 }
 #page-title {
  text-shadow: none;
