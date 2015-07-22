@@ -5,7 +5,7 @@ h1 {
  color: #2F3B45;
 }
 .user-menu header h1 {
- color: red;
+ color: #ffffff;
 }
 h2 {
  color: #ffffff;
@@ -22,12 +22,12 @@ h2 {
  background: #FFFFFF;
 }
 .user-menu h2 {
- color: green;
+ color: #4b565d;
  background: #ffffff;
  box-shadow: none;
 }
 .user-menu .nav-item > a {
- color: blue;
+ color: #2F3B45;
 }
 .user-menu .nav-item .plugin-ico,
 .user-menu .nav-item .course-ico {
