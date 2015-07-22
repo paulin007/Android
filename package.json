@@ -1,0 +1,16 @@
+{
+  "name": "mootes14 for desktop",
+  "main": "index.html",
+  "window": {
+    "title": "mootes14 for desktop",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1024,
+    "height": 768,
+    "max_height": 800,
+    "resizable": false
+  },
+  "plugin": true,
+  "description": "mootes14 for desktop"
+}
